@@ -8,7 +8,7 @@
 ✍️ &nbsp;During my free time, I enjoy delving into personal coding projects, exploring new programming techniques, and enhancing my skills through online courses and tutorials..\
 💬 &nbsp;Feel free to reach out to me for discussions about software development, coding challenges, or anything tech-related..\
 ✉️ &nbsp;You can shoot me an email at elalamimohamed1010@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/MohamedElalami100/MohamedElalami100/blob/main/Elalami_Mohamed_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://github.com/MohamedElalami100/MohamedElalami100/blob/main/Elalami_Mohamed_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
